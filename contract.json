@@ -2,7 +2,7 @@
     "name": "Московский политехнический университет",
     "image": "https://mospolytech.ru/local/templates/main/dist/img/logos/mospolytech-logo-white.png",
     "variables": {
-        "baseUrl": "https://github.com/Edugma/example-node"
+        "baseUrl": "https://raw.githubusercontent.com/Edugma/example-node/main"
     },
     "endpoints": {
         "schedule-compact-get": {
