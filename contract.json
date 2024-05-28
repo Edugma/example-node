@@ -55,7 +55,7 @@
             "url": "{baseUrl}/schedule/places/occupancy/{placeId}",
             "security": false
         },
-        "account-login-post": {
+        "account-login-post-get": {
             "method": "get",
             "url": "{baseUrl}/account/login.json",
             "security": false
