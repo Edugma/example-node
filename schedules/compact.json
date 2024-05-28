@@ -1,0 +1,2508 @@
+{
+    "lessons": [
+        {
+            "id": "11139516-2006-4710-ab6c-e1d417948b9f",
+            "tags": [
+                "Практика"
+            ],
+            "subjectId": "f48990dc7cec4db8ba292988f1644545",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3MTI=",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTMzMg==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTMyMTA=",
+                "group#MjIxLTMyMg==",
+                "group#MjIxLTMyMw==",
+                "group#MjIxLTMyOQ==",
+                "group#MjIxLTMzMQ==",
+                "group#MjIxLTM1MQ==",
+                "group#MjIxLTM1Mg==",
+                "group#MjIxLTM1Mw==",
+                "group#MjIxLTMyMQ=="
+            ],
+            "placesId": [
+                "b74677ee-b81b-4f8f-a085-25eaa769d5c9"
+            ],
+            "start": {
+                "dateTime": "2024-01-29T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-01-29T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240527T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "890e0c00-1e25-43ab-bacb-374d0ceaa895",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "9ee71caaa8a8030414834584e9b67c82",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#04de371c-0fd7-45ab-a2f2-8880d7fcd337",
+                "teacher#2a08a167-e127-4915-aad1-4add5dad94f5"
+            ],
+            "placesId": [
+                "c4a639bf-c49e-40b9-92e0-d477ab4273f7"
+            ],
+            "start": {
+                "dateTime": "2024-04-04T16:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-04-04T17:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240530T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "0479f83f-d122-43c5-bb6b-a8a0cfdab9e9",
+            "tags": [
+                "Практика"
+            ],
+            "subjectId": "208c0f009fe959bfb62f09ef5e2d392d",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#c2bb2bf5-a3f8-4f10-a40f-45150f2c7541",
+                "teacher#c9537aec-f8ba-47d7-866f-c8399d74b3e5"
+            ],
+            "placesId": [
+                "3ace5c9b-0413-4040-95af-f9d6542e948d",
+                "f66d5c7f-7565-47b3-a771-a177be41e84e"
+            ],
+            "start": {
+                "dateTime": "2024-02-02T12:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-02-02T13:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240531T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "b6dd2c4e-7d1d-4965-a884-38cdc28f11b2",
+            "tags": [
+                "Консультация"
+            ],
+            "subjectId": "208c0f009fe959bfb62f09ef5e2d392d",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#c2bb2bf5-a3f8-4f10-a40f-45150f2c7541",
+                "teacher#c9537aec-f8ba-47d7-866f-c8399d74b3e5"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-13T14:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-13T16:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "normal"
+        },
+        {
+            "id": "2fc4755b-63af-411e-b126-dc55250653a8",
+            "tags": [
+                "Зачёт"
+            ],
+            "subjectId": "7234eb4f613784de06d8c3c5f851509b",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#c7acc450-c0bf-4d8e-b3ba-d3ea01d81bbd"
+            ],
+            "placesId": [
+                "29b30e3e-ff77-45ca-8594-295fa3575d7b"
+            ],
+            "start": {
+                "dateTime": "2024-06-04T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-04T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "2c3ace70-82e5-4e50-8324-87a1f25f362b",
+            "tags": [
+                "Практика"
+            ],
+            "subjectId": "af40e253cd77ba4f78a4d69ad1a4dc10",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3MTI=",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA="
+            ],
+            "placesId": [
+                "4c56782e-040a-4b6e-861d-1abe6e2ccc78"
+            ],
+            "start": {
+                "dateTime": "2024-02-01T17:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-02-01T19:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240516T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "66aa63d8-a89e-481f-b7cf-256e0c6c1be0",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "8800be22f4fb2c228a72595579a492cd",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#2cee7e17-e8af-4d4c-8aec-5362a8162975",
+                "teacher#7affccaf-f16d-48ee-86e5-02e7e253194f"
+            ],
+            "placesId": [
+                "2688c9e9-d4e5-436f-b8bd-ec65ec089ccf"
+            ],
+            "start": {
+                "dateTime": "2024-04-02T12:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-04-02T13:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240528T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "c11dc063-b96e-4c40-9036-49f3e059ae03",
+            "tags": [
+                "Зачёт"
+            ],
+            "subjectId": "7234eb4f613784de06d8c3c5f851509b",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#c7acc450-c0bf-4d8e-b3ba-d3ea01d81bbd"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-04T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-04T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "26eff250-9086-4540-a012-a23b854ec7f7",
+            "tags": [
+                "Экзамен"
+            ],
+            "subjectId": "208c0f009fe959bfb62f09ef5e2d392d",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#c2bb2bf5-a3f8-4f10-a40f-45150f2c7541",
+                "teacher#c9537aec-f8ba-47d7-866f-c8399d74b3e5"
+            ],
+            "placesId": [
+                "29b30e3e-ff77-45ca-8594-295fa3575d7b"
+            ],
+            "start": {
+                "dateTime": "2024-06-17T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-17T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "a27b1687-0638-418b-902b-aef82d121ff3",
+            "tags": [
+                "Практика"
+            ],
+            "subjectId": "723b9fe0ca7f05310e08b6add5950979",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3MTI=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ=="
+            ],
+            "placesId": [
+                "b74677ee-b81b-4f8f-a085-25eaa769d5c9"
+            ],
+            "start": {
+                "dateTime": "2024-04-01T12:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-04-01T13:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240520T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "6b05f05e-6a81-4a92-901e-a53c85cb6474",
+            "tags": [
+                "Консультация"
+            ],
+            "subjectId": "34baa983986486def56f1abea7370bc1",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "teacher#1d1e48c8-5543-4b82-9ad1-3d3c7d2afe64"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-10T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-10T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "normal"
+        },
+        {
+            "id": "fef4ea85-ae64-49e8-81dd-8ccff0075e87",
+            "tags": [
+                "Экзамен"
+            ],
+            "subjectId": "90c8477332072888542df1fd1471ceaa",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#f69351f1-4fc5-4616-a675-c91d4354bbd1"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-20T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-20T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "d447ca9b-5a0d-4bc0-95b2-1577a3646a90",
+            "tags": [
+                "Экзамен"
+            ],
+            "subjectId": "34baa983986486def56f1abea7370bc1",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#1d1e48c8-5543-4b82-9ad1-3d3c7d2afe64"
+            ],
+            "placesId": [
+                "29b30e3e-ff77-45ca-8594-295fa3575d7b"
+            ],
+            "start": {
+                "dateTime": "2024-06-13T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-13T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "51735d59-028b-47d8-abb1-1c1a3fad745a",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "34baa983986486def56f1abea7370bc1",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#1d1e48c8-5543-4b82-9ad1-3d3c7d2afe64",
+                "teacher#6432ea0e-ec68-4c3f-a114-b0a47eaff1cd"
+            ],
+            "placesId": [
+                "85f422ba-aa41-4067-90a9-d96dc9a44897"
+            ],
+            "start": {
+                "dateTime": "2024-04-05T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-04-05T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240531T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "110cafdf-b67d-4584-9cc1-2b2bd2ac9151",
+            "tags": [
+                "Экзамен"
+            ],
+            "subjectId": "208c0f009fe959bfb62f09ef5e2d392d",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#c2bb2bf5-a3f8-4f10-a40f-45150f2c7541",
+                "teacher#c9537aec-f8ba-47d7-866f-c8399d74b3e5"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-17T12:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-17T13:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "cc1405b7-68e7-4969-b52f-3a4da17ed0e3",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "34baa983986486def56f1abea7370bc1",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#1d1e48c8-5543-4b82-9ad1-3d3c7d2afe64",
+                "teacher#6432ea0e-ec68-4c3f-a114-b0a47eaff1cd"
+            ],
+            "placesId": [
+                "85f422ba-aa41-4067-90a9-d96dc9a44897"
+            ],
+            "start": {
+                "dateTime": "2024-04-05T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-04-05T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240531T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "4f0cb338-2b80-4e5e-a604-58dce4f4767b",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "8800be22f4fb2c228a72595579a492cd",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#2cee7e17-e8af-4d4c-8aec-5362a8162975",
+                "teacher#7affccaf-f16d-48ee-86e5-02e7e253194f"
+            ],
+            "placesId": [
+                "84df5849-5c70-4cc4-9c14-a1fc040bafc6"
+            ],
+            "start": {
+                "dateTime": "2024-01-30T12:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-01-30T13:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240312T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "5ae662af-88f4-46e8-a60e-8bbc417bfe19",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "90c8477332072888542df1fd1471ceaa",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#2d7b62a3-59ad-4b58-a2a9-613b75396ef8",
+                "teacher#96447a90-7787-4e8f-a2a8-05bc347cad73"
+            ],
+            "placesId": [
+                "c30967ee-4b15-41c5-9963-d8a4bd2374ff"
+            ],
+            "start": {
+                "dateTime": "2024-05-08T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-05-08T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240605T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "c2c6adda-9590-4cff-840f-6453a7a62325",
+            "tags": [
+                "Консультация"
+            ],
+            "subjectId": "90c8477332072888542df1fd1471ceaa",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "teacher#f69351f1-4fc5-4616-a675-c91d4354bbd1"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-08T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-08T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "normal"
+        },
+        {
+            "id": "234a8dd0-3e93-4bd2-9042-a3ff70344b2a",
+            "tags": [
+                "Лекция"
+            ],
+            "subjectId": "7234eb4f613784de06d8c3c5f851509b",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3MTI=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "teacher#642fe4cd-180a-487a-9c54-c99ec6fa4605"
+            ],
+            "placesId": [
+                "af948f7e-2b4c-4f06-84c0-f99caf6b57ae"
+            ],
+            "start": {
+                "dateTime": "2024-02-03T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-02-03T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240330T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "9dd3552b-0079-451c-90bd-1c52b23bd8b1",
+            "tags": [
+                "Лекция"
+            ],
+            "subjectId": "8800be22f4fb2c228a72595579a492cd",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "teacher#7b72079f-1041-4e62-8266-8248b3b286cf"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-02-03T12:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-02-03T13:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240601T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "5b3cb8ce-d525-4883-af7f-64a666294363",
+            "tags": [
+                "Практика"
+            ],
+            "subjectId": "af40e253cd77ba4f78a4d69ad1a4dc10",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3MTI=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ=="
+            ],
+            "placesId": [
+                "4c56782e-040a-4b6e-861d-1abe6e2ccc78"
+            ],
+            "start": {
+                "dateTime": "2024-01-30T17:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-01-30T19:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240528T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "bc6e914d-af37-4173-923c-b0418b9c4d9a",
+            "tags": [
+                "Консультация"
+            ],
+            "subjectId": "1e5d6f1d5fc4a77f4cde00ea05ead65f",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "teacher#9c0718d6-e439-41d6-a0c0-cd3394b97007"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-08T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-08T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "normal"
+        },
+        {
+            "id": "9495c16c-8246-4dcf-825e-0aa0458866e3",
+            "tags": [
+                "Экзамен"
+            ],
+            "subjectId": "90c8477332072888542df1fd1471ceaa",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#f69351f1-4fc5-4616-a675-c91d4354bbd1"
+            ],
+            "placesId": [
+                "29b30e3e-ff77-45ca-8594-295fa3575d7b"
+            ],
+            "start": {
+                "dateTime": "2024-06-20T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-20T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "60e597ab-a82d-4178-be0f-d5e1fd13d1bc",
+            "tags": [
+                "Зачёт"
+            ],
+            "subjectId": "8800be22f4fb2c228a72595579a492cd",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#7b72079f-1041-4e62-8266-8248b3b286cf"
+            ],
+            "placesId": [
+                "29b30e3e-ff77-45ca-8594-295fa3575d7b"
+            ],
+            "start": {
+                "dateTime": "2024-06-06T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-06T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "4ebc157e-2a0b-498f-89f6-95a3d79aec06",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "90c8477332072888542df1fd1471ceaa",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#2d7b62a3-59ad-4b58-a2a9-613b75396ef8",
+                "teacher#96447a90-7787-4e8f-a2a8-05bc347cad73"
+            ],
+            "placesId": [
+                "c30967ee-4b15-41c5-9963-d8a4bd2374ff"
+            ],
+            "start": {
+                "dateTime": "2024-01-30T14:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-01-30T16:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240326T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "3d4ae8ca-3e66-4826-bf98-8f3107bbc830",
+            "tags": [
+                "Зачёт"
+            ],
+            "subjectId": "723b9fe0ca7f05310e08b6add5950979",
+            "attendeesId": [
+                "group#MjAxLTExMg==",
+                "group#MjAxLTExMQ==",
+                "group#MjAxLTgxMg==",
+                "group#MjAxLTgxMQ==",
+                "group#MjAxLTIzMQ==",
+                "group#MjAxLTQ1MQ==",
+                "group#MjAxLTQ2MQ==",
+                "group#MjExLTE1MQ==",
+                "group#MjExLTE2MQ==",
+                "group#MjExLTE3Mg==",
+                "group#MjExLTE3MQ==",
+                "group#MjExLTExMg==",
+                "group#MjExLTExMQ==",
+                "group#MjExLTExMw==",
+                "group#MjExLTExNA==",
+                "group#MjExLTEyMQ==",
+                "group#MjExLTI0Mg==",
+                "group#MjExLTI0MQ==",
+                "group#MjExLTI1MQ==",
+                "group#MjExLTI2MQ==",
+                "group#MjExLTI3MQ==",
+                "group#MjExLTI4MQ==",
+                "group#MjExLTI5MQ==",
+                "group#MjExLTIxMQ==",
+                "group#MjExLTIyMg==",
+                "group#MjExLTIyMQ==",
+                "group#MjExLTIyMw==",
+                "group#MjExLTIzMQ==",
+                "group#MjExLTM1Mg==",
+                "group#MjExLTM1MQ==",
+                "group#MjExLTM2MQ==",
+                "group#MjExLTM2NA==",
+                "group#MjExLTM2NQ==",
+                "group#MjExLTMyMg==",
+                "group#MjExLTMyMQ==",
+                "group#MjExLTMyMw==",
+                "group#MjExLTMyNA==",
+                "group#MjExLTMyNQ==",
+                "group#MjExLTMyNw==",
+                "group#MjExLTMzMQ==",
+                "group#MjExLTQ3Mg==",
+                "group#MjExLTQ3MQ==",
+                "group#MjIxLTgyMg==",
+                "group#MjIxLTgyMQ==",
+                "group#MjIxLTM2MQ==",
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3MTI=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "group#MjIxLTMyNA==",
+                "group#MjIxLTMyNg==",
+                "group#MjIxLTMyNQ==",
+                "group#MjIxLTMyNw==",
+                "group#MjIxLTMyOA==",
+                "group#MjIxLTYzMg==",
+                "group#MjIxLTYzMQ==",
+                "group#MjIxLTYzMw==",
+                "group#MjIxLTYzNA==",
+                "group#MjIxLTYzNQ==",
+                "group#MjMxLTAxMg==",
+                "group#MjMxLTAxMQ==",
+                "group#MjMxLTAxMw==",
+                "group#MjMxLTAyMg==",
+                "group#MjMxLTAyMQ==",
+                "group#MjMxLTAyMw==",
+                "group#MjMxLTgxMg==",
+                "group#MjMxLTgxMQ==",
+                "group#MjMxLTgxMw==",
+                "group#MjMxLTgyMg==",
+                "group#MjMxLTgyMQ==",
+                "group#MjMxLTM1Mg==",
+                "group#MjMxLTM1MQ==",
+                "group#MjMxLTMyMg==",
+                "group#MjMxLTMyMQ==",
+                "group#MjMxLTMyMTA=",
+                "group#MjMxLTMyMTE=",
+                "group#MjMxLTMyMTI=",
+                "group#MjMxLTMyMTM=",
+                "group#MjMxLTMyMw==",
+                "group#MjMxLTMyOQ==",
+                "group#MjMxLTMzMg==",
+                "group#MjMxLTMzMQ==",
+                "group#MjMxLTMzMTA=",
+                "group#MjMxLTMzMw==",
+                "group#MjMxLTMzNA==",
+                "group#MjMxLTMzNg==",
+                "group#MjMxLTMzNQ==",
+                "group#MjMxLTMzNw==",
+                "group#MjMxLTMzOA==",
+                "group#MjMxLTMzOQ==",
+                "group#MjMxLTYzMg==",
+                "group#MjMxLTYzMQ==",
+                "group#MjMxLTYzMw==",
+                "group#MjMxLTYzNA=="
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-03T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-03T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "e0fb3981-6d6a-488f-80a7-488429634205",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "8800be22f4fb2c228a72595579a492cd",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#2cee7e17-e8af-4d4c-8aec-5362a8162975",
+                "teacher#7affccaf-f16d-48ee-86e5-02e7e253194f"
+            ],
+            "placesId": [
+                "1c7068ac-3ad6-4767-8a0d-40c63367e306"
+            ],
+            "start": {
+                "dateTime": "2024-03-19T12:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-03-19T13:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240326T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "2028c628-ba8f-4729-bba0-419712ad858d",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "90c8477332072888542df1fd1471ceaa",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#2d7b62a3-59ad-4b58-a2a9-613b75396ef8",
+                "teacher#96447a90-7787-4e8f-a2a8-05bc347cad73"
+            ],
+            "placesId": [
+                "c30967ee-4b15-41c5-9963-d8a4bd2374ff"
+            ],
+            "start": {
+                "dateTime": "2024-05-08T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-05-08T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240605T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "5d56d19a-0f05-4fda-a750-1498194898cb",
+            "tags": [
+                "Зачёт"
+            ],
+            "subjectId": "dd9a18bc2be45a27958924eff75883ff",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#05cce7f7-e653-44b6-b3ec-5fc565b82cd7"
+            ],
+            "placesId": [
+                "29b30e3e-ff77-45ca-8594-295fa3575d7b"
+            ],
+            "start": {
+                "dateTime": "2024-06-04T12:20",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-04T13:50",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "5a3e0fad-2496-40d9-9696-ed8e952770fd",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "9ee71caaa8a8030414834584e9b67c82",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#04de371c-0fd7-45ab-a2f2-8880d7fcd337",
+                "teacher#2a08a167-e127-4915-aad1-4add5dad94f5"
+            ],
+            "placesId": [
+                "c4a639bf-c49e-40b9-92e0-d477ab4273f7"
+            ],
+            "start": {
+                "dateTime": "2024-04-04T14:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-04-04T16:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240530T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "83ec4310-5f53-41bd-9a1c-7a32b17195be",
+            "tags": [
+                "Практика"
+            ],
+            "subjectId": "1e5d6f1d5fc4a77f4cde00ea05ead65f",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#9c0718d6-e439-41d6-a0c0-cd3394b97007"
+            ],
+            "placesId": [
+                "86f35ef7-37ee-449e-85ce-073a3495fa7b"
+            ],
+            "start": {
+                "dateTime": "2024-02-02T14:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-02-02T16:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240531T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "9dba4617-979a-423a-985d-3dc2e08c6ef5",
+            "tags": [
+                "Зачёт"
+            ],
+            "subjectId": "9ee71caaa8a8030414834584e9b67c82",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#04de371c-0fd7-45ab-a2f2-8880d7fcd337"
+            ],
+            "placesId": [
+                "29b30e3e-ff77-45ca-8594-295fa3575d7b"
+            ],
+            "start": {
+                "dateTime": "2024-06-06T14:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-06T16:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "b6d5c826-8d33-4903-abad-bdf4be1b7ad6",
+            "tags": [
+                "Лекция"
+            ],
+            "subjectId": "34baa983986486def56f1abea7370bc1",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "teacher#1d1e48c8-5543-4b82-9ad1-3d3c7d2afe64"
+            ],
+            "placesId": [
+                "092626da-e599-487d-8bda-17d6f41e85af"
+            ],
+            "start": {
+                "dateTime": "2024-04-06T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-04-06T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240525T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "78faeb72-9dac-4b82-a22e-06df545381dd",
+            "tags": [
+                "Лекция"
+            ],
+            "subjectId": "1e5d6f1d5fc4a77f4cde00ea05ead65f",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "teacher#9c0718d6-e439-41d6-a0c0-cd3394b97007"
+            ],
+            "placesId": [
+                "abe200a2-83bd-4e4f-880b-bc7768ebf8ea"
+            ],
+            "start": {
+                "dateTime": "2024-02-03T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-02-03T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240525T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "4a6d4f4a-ede0-490b-87ef-a931418955f6",
+            "tags": [
+                "Практика"
+            ],
+            "subjectId": "7234eb4f613784de06d8c3c5f851509b",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#c7acc450-c0bf-4d8e-b3ba-d3ea01d81bbd"
+            ],
+            "placesId": [
+                "c3389873-d45c-4fd2-8744-87ade457658c"
+            ],
+            "start": {
+                "dateTime": "2024-01-30T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-01-30T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240528T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "34776828-d5cc-4372-8431-7e1afba1bfff",
+            "tags": [
+                "Практика"
+            ],
+            "subjectId": "723b9fe0ca7f05310e08b6add5950979",
+            "attendeesId": [
+                "group#MjAxLTExMg==",
+                "group#MjAxLTExMQ==",
+                "group#MjAxLTIzMQ==",
+                "group#MjAxLTQ1MQ==",
+                "group#MjAxLTQ2MQ==",
+                "group#MjExLTcxMQ==",
+                "group#MjExLTI0Mg==",
+                "group#MjExLTI0MQ==",
+                "group#MjExLTI1MQ==",
+                "group#MjExLTI2MQ==",
+                "group#MjExLTI3MQ==",
+                "group#MjExLTI4MQ==",
+                "group#MjExLTI5MQ==",
+                "group#MjExLTIxMQ==",
+                "group#MjExLTIyMg==",
+                "group#MjExLTIyMQ==",
+                "group#MjExLTIyMw==",
+                "group#MjExLTIzMQ==",
+                "group#MjExLTM1Mg==",
+                "group#MjExLTM1MQ==",
+                "group#MjExLTM2MQ==",
+                "group#MjExLTMzMQ==",
+                "group#MjExLTQ3Mg==",
+                "group#MjExLTQ3MQ==",
+                "group#MjExLTYzMg==",
+                "group#MjExLTYzMQ==",
+                "group#MjExLTYzMw==",
+                "group#MjIxLTAxMg==",
+                "group#MjIxLTAxMQ==",
+                "group#MjIxLTAxMw==",
+                "group#MjIxLTAyMg==",
+                "group#MjIxLTAyMQ==",
+                "group#MjIxLTAyMw==",
+                "group#MjIxLTc0MQ==",
+                "group#MjIxLTc1Mg==",
+                "group#MjIxLTc1MQ==",
+                "group#MjIxLTc1Mw==",
+                "group#MjIxLTcxMQ==",
+                "group#MjIxLTgxMg==",
+                "group#MjIxLTgxMQ==",
+                "group#MjIxLTgxMw==",
+                "group#MjIxLTgxNA==",
+                "group#MjIxLTM1Mg==",
+                "group#MjIxLTM1MQ==",
+                "group#MjIxLTM1Mw==",
+                "group#MjIxLTM2MQ==",
+                "group#MjIxLTM2Mw==",
+                "group#MjIxLTM2NA==",
+                "group#MjIxLTM2NQ==",
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3MTI=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "group#MjIxLTMyMg==",
+                "group#MjIxLTMyMQ==",
+                "group#MjIxLTMyMTA=",
+                "group#MjIxLTMyMw==",
+                "group#MjIxLTMyNA==",
+                "group#MjIxLTMyNg==",
+                "group#MjIxLTMyNQ==",
+                "group#MjIxLTMyNw==",
+                "group#MjIxLTMyOA==",
+                "group#MjIxLTMyOQ==",
+                "group#MjIxLTMzMg==",
+                "group#MjIxLTMzMQ==",
+                "group#MjIxLTYzMg==",
+                "group#MjIxLTYzMQ==",
+                "group#MjIxLTYzMw==",
+                "group#MjIxLTYzNA==",
+                "group#MjIxLTYzNQ==",
+                "group#MjMxLTgyMg==",
+                "group#MjMxLTgyMQ=="
+            ],
+            "placesId": [
+                "b74677ee-b81b-4f8f-a085-25eaa769d5c9"
+            ],
+            "start": {
+                "dateTime": "2024-01-29T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-01-29T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240527T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "86e1f57b-e759-4d57-8644-a59e8a070aeb",
+            "tags": [
+                "Курсовой проект"
+            ],
+            "subjectId": "1e5d6f1d5fc4a77f4cde00ea05ead65f",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#9c0718d6-e439-41d6-a0c0-cd3394b97007"
+            ],
+            "placesId": [
+                "29b30e3e-ff77-45ca-8594-295fa3575d7b"
+            ],
+            "start": {
+                "dateTime": "2024-06-25T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-25T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "361930b4-6bb4-4b47-8f66-0ffe09c88dc0",
+            "tags": [
+                "Экзамен"
+            ],
+            "subjectId": "34baa983986486def56f1abea7370bc1",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#1d1e48c8-5543-4b82-9ad1-3d3c7d2afe64"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-13T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-13T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "3bdf741d-a65c-4973-8c3f-9909ec3d95c2",
+            "tags": [
+                "Зачёт"
+            ],
+            "subjectId": "f48990dc7cec4db8ba292988f1644545",
+            "attendeesId": [
+                "group#MjIxLTgyMg==",
+                "group#MjIxLTgyMQ==",
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3MTI=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "group#MjIxLTYzMg==",
+                "group#MjIxLTYzMQ==",
+                "group#MjIxLTYzMw==",
+                "group#MjIxLTYzNA==",
+                "group#MjIxLTYzNQ=="
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-03T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-03T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "5ce2434d-4b22-4f1c-9b58-89a145175827",
+            "tags": [
+                "Лабораторная работа"
+            ],
+            "subjectId": "90c8477332072888542df1fd1471ceaa",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#2d7b62a3-59ad-4b58-a2a9-613b75396ef8",
+                "teacher#96447a90-7787-4e8f-a2a8-05bc347cad73"
+            ],
+            "placesId": [
+                "c30967ee-4b15-41c5-9963-d8a4bd2374ff"
+            ],
+            "start": {
+                "dateTime": "2024-04-02T09:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-04-02T10:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240528T235959Z"
+            ],
+            "importance": "normal"
+        },
+        {
+            "id": "760b93aa-1cb3-4290-af2e-1d63aa3cb09e",
+            "tags": [
+                "Экзамен"
+            ],
+            "subjectId": "1e5d6f1d5fc4a77f4cde00ea05ead65f",
+            "attendeesId": [
+                "group#MjIxLTM3MQ==",
+                "teacher#9c0718d6-e439-41d6-a0c0-cd3394b97007"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-06-25T10:40",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-06-25T12:10",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [],
+            "importance": "high"
+        },
+        {
+            "id": "b7f85d52-4cdc-4c10-b8a0-90ed01cbad96",
+            "tags": [
+                "Лекция"
+            ],
+            "subjectId": "90c8477332072888542df1fd1471ceaa",
+            "attendeesId": [
+                "group#MjIxLTM3Mg==",
+                "group#MjIxLTM3MQ==",
+                "group#MjIxLTM3MTA=",
+                "group#MjIxLTM3MTE=",
+                "group#MjIxLTM3Mw==",
+                "group#MjIxLTM3NA==",
+                "group#MjIxLTM3Ng==",
+                "group#MjIxLTM3NQ==",
+                "group#MjIxLTM3Nw==",
+                "group#MjIxLTM3OA==",
+                "group#MjIxLTM3OQ==",
+                "teacher#f69351f1-4fc5-4616-a675-c91d4354bbd1"
+            ],
+            "placesId": [
+                "977401b3-7ddc-4052-8b39-dfbe551dc802"
+            ],
+            "start": {
+                "dateTime": "2024-02-03T14:30",
+                "timeZone": "Europe/Moscow"
+            },
+            "end": {
+                "dateTime": "2024-02-03T16:00",
+                "timeZone": "Europe/Moscow"
+            },
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20240330T235959Z"
+            ],
+            "importance": "normal"
+        }
+    ],
+    "subjects": [
+        {
+            "id": "f48990dc7cec4db8ba292988f1644545",
+            "title": "Основы технологического предпринимательства"
+        },
+        {
+            "id": "9ee71caaa8a8030414834584e9b67c82",
+            "title": "Шаблоны проектирования"
+        },
+        {
+            "id": "208c0f009fe959bfb62f09ef5e2d392d",
+            "title": "Иностранный язык"
+        },
+        {
+            "id": "7234eb4f613784de06d8c3c5f851509b",
+            "title": "Математическая логика и дискретная математика"
+        },
+        {
+            "id": "af40e253cd77ba4f78a4d69ad1a4dc10",
+            "title": "Общая физическая подготовка (см. график кафедры)"
+        },
+        {
+            "id": "8800be22f4fb2c228a72595579a492cd",
+            "title": "BackEnd-разработка"
+        },
+        {
+            "id": "723b9fe0ca7f05310e08b6add5950979",
+            "title": "Проектная деятельность"
+        },
+        {
+            "id": "34baa983986486def56f1abea7370bc1",
+            "title": "Системный анализ"
+        },
+        {
+            "id": "90c8477332072888542df1fd1471ceaa",
+            "title": "Веб-программирование и дизайн"
+        },
+        {
+            "id": "1e5d6f1d5fc4a77f4cde00ea05ead65f",
+            "title": "Базы данных"
+        },
+        {
+            "id": "dd9a18bc2be45a27958924eff75883ff",
+            "title": "Общая физическая подготовка "
+        }
+    ],
+    "attendees": [
+        {
+            "id": "group#MjIxLTM3Mg==",
+            "type": "group",
+            "name": "221-372",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3Mw==",
+            "type": "group",
+            "name": "221-373",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3NA==",
+            "type": "group",
+            "name": "221-374",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3NQ==",
+            "type": "group",
+            "name": "221-375",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3Ng==",
+            "type": "group",
+            "name": "221-376",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3Nw==",
+            "type": "group",
+            "name": "221-377",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3OA==",
+            "type": "group",
+            "name": "221-378",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3OQ==",
+            "type": "group",
+            "name": "221-379",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3MTE=",
+            "type": "group",
+            "name": "221-3711",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3MTI=",
+            "type": "group",
+            "name": "221-3712",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3MQ==",
+            "type": "group",
+            "name": "221-371",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMzMg==",
+            "type": "group",
+            "name": "221-332",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM3MTA=",
+            "type": "group",
+            "name": "221-3710",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyMTA=",
+            "type": "group",
+            "name": "221-3210",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyMg==",
+            "type": "group",
+            "name": "221-322",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyMw==",
+            "type": "group",
+            "name": "221-323",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyOQ==",
+            "type": "group",
+            "name": "221-329",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMzMQ==",
+            "type": "group",
+            "name": "221-331",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM1MQ==",
+            "type": "group",
+            "name": "221-351",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM1Mg==",
+            "type": "group",
+            "name": "221-352",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM1Mw==",
+            "type": "group",
+            "name": "221-353",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyMQ==",
+            "type": "group",
+            "name": "221-321",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "teacher#04de371c-0fd7-45ab-a2f2-8880d7fcd337",
+            "type": "teacher",
+            "name": "Гуляева Виктория Сергеевна",
+            "description": "Ассистент, Кафедра \"Информатика и информационные технологии\""
+        },
+        {
+            "id": "teacher#2a08a167-e127-4915-aad1-4add5dad94f5",
+            "type": "teacher",
+            "name": "Ситнер Владимир Владимирович",
+            "description": "Ассистент, Кафедра \"Информатика и информационные технологии\""
+        },
+        {
+            "id": "teacher#c2bb2bf5-a3f8-4f10-a40f-45150f2c7541",
+            "type": "teacher",
+            "name": "Володина Елена Владимировна",
+            "description": "Доцент, к.н., Кафедра \"Иностранные языки\"",
+            "avatar": "https://xsgames.co/randomusers/avatar.php?g=female"
+        },
+        {
+            "id": "teacher#c9537aec-f8ba-47d7-866f-c8399d74b3e5",
+            "type": "teacher",
+            "name": "Султанова Юлия Михайловна",
+            "description": "Старший преподаватель, Кафедра \"Иностранные языки\""
+        },
+        {
+            "id": "teacher#c7acc450-c0bf-4d8e-b3ba-d3ea01d81bbd",
+            "type": "teacher",
+            "name": "Шадрина Наталья Николаевна",
+            "description": "Доцент, к.н., Кафедра \"Математика\""
+        },
+        {
+            "id": "teacher#2cee7e17-e8af-4d4c-8aec-5362a8162975",
+            "type": "teacher",
+            "name": "Худайбердиева Гулшат",
+            "description": "Ассистент, Кафедра \"Информатика и информационные технологии\""
+        },
+        {
+            "id": "teacher#7affccaf-f16d-48ee-86e5-02e7e253194f",
+            "type": "teacher",
+            "name": "Полубояринова Анастасия Сергеевна",
+            "description": "Ассистент, Кафедра \"Информатика и информационные технологии\""
+        },
+        {
+            "id": "teacher#1d1e48c8-5543-4b82-9ad1-3d3c7d2afe64",
+            "type": "teacher",
+            "name": "Винокурова Ольга Аскольдовна",
+            "description": "Доцент, к.н., Кафедра \"Информатика и информационные технологии\"",
+            "avatar": "https://xsgames.co/randomusers/avatar.php?g=female"
+        },
+        {
+            "id": "teacher#f69351f1-4fc5-4616-a675-c91d4354bbd1",
+            "type": "teacher",
+            "name": "Новиков Петр Сергеевич",
+            "description": "Доцент, к.н., Кафедра \"Информатика и информационные технологии\""
+        },
+        {
+            "id": "teacher#6432ea0e-ec68-4c3f-a114-b0a47eaff1cd",
+            "type": "teacher",
+            "name": "Болдасов Виктор Семенович",
+            "description": "Доцент, к.н., Кафедра \"Информатика и информационные технологии\""
+        },
+        {
+            "id": "teacher#2d7b62a3-59ad-4b58-a2a9-613b75396ef8",
+            "type": "teacher",
+            "name": "Кононенко Ксения Михайловна",
+            "description": "Преподаватель, Кафедра \"Информатика и информационные технологии\"",
+            "avatar": "https://xsgames.co/randomusers/avatar.php?g=female"
+        },
+        {
+            "id": "teacher#96447a90-7787-4e8f-a2a8-05bc347cad73",
+            "type": "teacher",
+            "name": "Хуснулина Дария Рашитовна",
+            "description": "Начальник центра, Центр развития технологий в цифровом образовании",
+            "avatar": "https://xsgames.co/randomusers/avatar.php?g=female"
+        },
+        {
+            "id": "teacher#642fe4cd-180a-487a-9c54-c99ec6fa4605",
+            "type": "teacher",
+            "name": "Васильева Наталья Владимировна",
+            "description": "Доцент, к.н., Кафедра \"Математика\"",
+            "avatar": "https://xsgames.co/randomusers/avatar.php?g=female"
+        },
+        {
+            "id": "teacher#7b72079f-1041-4e62-8266-8248b3b286cf",
+            "type": "teacher",
+            "name": "Аникин Дмитрий Васильевич",
+            "description": "Доцент, к.н., Кафедра \"Информатика и информационные технологии\""
+        },
+        {
+            "id": "teacher#9c0718d6-e439-41d6-a0c0-cd3394b97007",
+            "type": "teacher",
+            "name": "Денисов Дмитрий Александрович",
+            "description": "Доцент, к.н., Кафедра \"Информатика и информационные технологии\""
+        },
+        {
+            "id": "group#MjAxLTExMg==",
+            "type": "group",
+            "name": "201-112",
+            "description": "4-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjAxLTExMQ==",
+            "type": "group",
+            "name": "201-111",
+            "description": "4-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjAxLTgxMg==",
+            "type": "group",
+            "name": "201-812",
+            "description": "4-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjAxLTgxMQ==",
+            "type": "group",
+            "name": "201-811",
+            "description": "4-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjAxLTIzMQ==",
+            "type": "group",
+            "name": "201-231",
+            "description": "4-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjAxLTQ1MQ==",
+            "type": "group",
+            "name": "201-451",
+            "description": "4-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "group#MjAxLTQ2MQ==",
+            "type": "group",
+            "name": "201-461",
+            "description": "4-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTE1MQ==",
+            "type": "group",
+            "name": "211-151",
+            "description": "3-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjExLTE2MQ==",
+            "type": "group",
+            "name": "211-161",
+            "description": "3-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjExLTE3Mg==",
+            "type": "group",
+            "name": "211-172",
+            "description": "3-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjExLTE3MQ==",
+            "type": "group",
+            "name": "211-171",
+            "description": "3-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjExLTExMg==",
+            "type": "group",
+            "name": "211-112",
+            "description": "3-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjExLTExMQ==",
+            "type": "group",
+            "name": "211-111",
+            "description": "3-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjExLTExMw==",
+            "type": "group",
+            "name": "211-113",
+            "description": "3-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjExLTExNA==",
+            "type": "group",
+            "name": "211-114",
+            "description": "3-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjExLTEyMQ==",
+            "type": "group",
+            "name": "211-121",
+            "description": "3-й курс, Транспортный факультет"
+        },
+        {
+            "id": "group#MjExLTI0Mg==",
+            "type": "group",
+            "name": "211-242",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTI0MQ==",
+            "type": "group",
+            "name": "211-241",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTI1MQ==",
+            "type": "group",
+            "name": "211-251",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTI2MQ==",
+            "type": "group",
+            "name": "211-261",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTI3MQ==",
+            "type": "group",
+            "name": "211-271",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTI4MQ==",
+            "type": "group",
+            "name": "211-281",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTI5MQ==",
+            "type": "group",
+            "name": "211-291",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTIxMQ==",
+            "type": "group",
+            "name": "211-211",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTIyMg==",
+            "type": "group",
+            "name": "211-222",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTIyMQ==",
+            "type": "group",
+            "name": "211-221",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTIyMw==",
+            "type": "group",
+            "name": "211-223",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTIzMQ==",
+            "type": "group",
+            "name": "211-231",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTM1Mg==",
+            "type": "group",
+            "name": "211-352",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTM1MQ==",
+            "type": "group",
+            "name": "211-351",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTM2MQ==",
+            "type": "group",
+            "name": "211-361",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTM2NA==",
+            "type": "group",
+            "name": "211-364",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTM2NQ==",
+            "type": "group",
+            "name": "211-365",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTMyMg==",
+            "type": "group",
+            "name": "211-322",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTMyMQ==",
+            "type": "group",
+            "name": "211-321",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTMyMw==",
+            "type": "group",
+            "name": "211-323",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTMyNA==",
+            "type": "group",
+            "name": "211-324",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTMyNQ==",
+            "type": "group",
+            "name": "211-325",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTMyNw==",
+            "type": "group",
+            "name": "211-327",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTMzMQ==",
+            "type": "group",
+            "name": "211-331",
+            "description": "3-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjExLTQ3Mg==",
+            "type": "group",
+            "name": "211-472",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjExLTQ3MQ==",
+            "type": "group",
+            "name": "211-471",
+            "description": "3-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "group#MjIxLTgyMg==",
+            "type": "group",
+            "name": "221-822",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjIxLTgyMQ==",
+            "type": "group",
+            "name": "221-821",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjIxLTM2MQ==",
+            "type": "group",
+            "name": "221-361",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyNA==",
+            "type": "group",
+            "name": "221-324",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyNg==",
+            "type": "group",
+            "name": "221-326",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyNQ==",
+            "type": "group",
+            "name": "221-325",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyNw==",
+            "type": "group",
+            "name": "221-327",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTMyOA==",
+            "type": "group",
+            "name": "221-328",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTYzMg==",
+            "type": "group",
+            "name": "221-632",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjIxLTYzMQ==",
+            "type": "group",
+            "name": "221-631",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjIxLTYzMw==",
+            "type": "group",
+            "name": "221-633",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjIxLTYzNA==",
+            "type": "group",
+            "name": "221-634",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjIxLTYzNQ==",
+            "type": "group",
+            "name": "221-635",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjMxLTAxMg==",
+            "type": "group",
+            "name": "231-012",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjMxLTAxMQ==",
+            "type": "group",
+            "name": "231-011",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjMxLTAxMw==",
+            "type": "group",
+            "name": "231-013",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjMxLTAyMg==",
+            "type": "group",
+            "name": "231-022",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjMxLTAyMQ==",
+            "type": "group",
+            "name": "231-021",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjMxLTAyMw==",
+            "type": "group",
+            "name": "231-023",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjMxLTgxMg==",
+            "type": "group",
+            "name": "231-812",
+            "description": "1-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjMxLTgxMQ==",
+            "type": "group",
+            "name": "231-811",
+            "description": "1-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjMxLTgxMw==",
+            "type": "group",
+            "name": "231-813",
+            "description": "1-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjMxLTgyMg==",
+            "type": "group",
+            "name": "231-822",
+            "description": "1-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjMxLTgyMQ==",
+            "type": "group",
+            "name": "231-821",
+            "description": "1-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjMxLTM1Mg==",
+            "type": "group",
+            "name": "231-352",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTM1MQ==",
+            "type": "group",
+            "name": "231-351",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMyMg==",
+            "type": "group",
+            "name": "231-322",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMyMQ==",
+            "type": "group",
+            "name": "231-321",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMyMTA=",
+            "type": "group",
+            "name": "231-3210",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMyMTE=",
+            "type": "group",
+            "name": "231-3211",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMyMTI=",
+            "type": "group",
+            "name": "231-3212",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMyMTM=",
+            "type": "group",
+            "name": "231-3213",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMyMw==",
+            "type": "group",
+            "name": "231-323",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMyOQ==",
+            "type": "group",
+            "name": "231-329",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzMg==",
+            "type": "group",
+            "name": "231-332",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzMQ==",
+            "type": "group",
+            "name": "231-331",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzMTA=",
+            "type": "group",
+            "name": "231-3310",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzMw==",
+            "type": "group",
+            "name": "231-333",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzNA==",
+            "type": "group",
+            "name": "231-334",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzNg==",
+            "type": "group",
+            "name": "231-336",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzNQ==",
+            "type": "group",
+            "name": "231-335",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzNw==",
+            "type": "group",
+            "name": "231-337",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzOA==",
+            "type": "group",
+            "name": "231-338",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTMzOQ==",
+            "type": "group",
+            "name": "231-339",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjMxLTYzMg==",
+            "type": "group",
+            "name": "231-632",
+            "description": "1-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjMxLTYzMQ==",
+            "type": "group",
+            "name": "231-631",
+            "description": "1-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjMxLTYzMw==",
+            "type": "group",
+            "name": "231-633",
+            "description": "1-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjMxLTYzNA==",
+            "type": "group",
+            "name": "231-634",
+            "description": "1-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "teacher#05cce7f7-e653-44b6-b3ec-5fc565b82cd7",
+            "type": "teacher",
+            "name": "Маликов Александр Юрьевич",
+            "description": "Старший преподаватель, Кафедра \"Физическое воспитание\"",
+            "avatar": "https://xsgames.co/randomusers/avatar.php?g=male"
+        },
+        {
+            "id": "group#MjExLTcxMQ==",
+            "type": "group",
+            "name": "211-711",
+            "description": "3-й курс, Институт принтмедиа и информационных технологий"
+        },
+        {
+            "id": "group#MjExLTYzMg==",
+            "type": "group",
+            "name": "211-632",
+            "description": "3-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjExLTYzMQ==",
+            "type": "group",
+            "name": "211-631",
+            "description": "3-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjExLTYzMw==",
+            "type": "group",
+            "name": "211-633",
+            "description": "3-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "group#MjIxLTAxMg==",
+            "type": "group",
+            "name": "221-012",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjIxLTAxMQ==",
+            "type": "group",
+            "name": "221-011",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjIxLTAxMw==",
+            "type": "group",
+            "name": "221-013",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjIxLTAyMg==",
+            "type": "group",
+            "name": "221-022",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjIxLTAyMQ==",
+            "type": "group",
+            "name": "221-021",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjIxLTAyMw==",
+            "type": "group",
+            "name": "221-023",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "group#MjIxLTc0MQ==",
+            "type": "group",
+            "name": "221-741",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "group#MjIxLTc1Mg==",
+            "type": "group",
+            "name": "221-752",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "group#MjIxLTc1MQ==",
+            "type": "group",
+            "name": "221-751",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "group#MjIxLTc1Mw==",
+            "type": "group",
+            "name": "221-753",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "group#MjIxLTcxMQ==",
+            "type": "group",
+            "name": "221-711",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "group#MjIxLTgxMg==",
+            "type": "group",
+            "name": "221-812",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjIxLTgxMQ==",
+            "type": "group",
+            "name": "221-811",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjIxLTgxMw==",
+            "type": "group",
+            "name": "221-813",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjIxLTgxNA==",
+            "type": "group",
+            "name": "221-814",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "group#MjIxLTM2Mw==",
+            "type": "group",
+            "name": "221-363",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM2NA==",
+            "type": "group",
+            "name": "221-364",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "group#MjIxLTM2NQ==",
+            "type": "group",
+            "name": "221-365",
+            "description": "2-й курс, Факультет информационных технологий"
+        }
+    ],
+    "places": [
+        {
+            "type": "other",
+            "id": "b74677ee-b81b-4f8f-a085-25eaa769d5c9",
+            "title": "<a href='https://www.google.ru/' target='_blank'>📁 ПД</a>"
+        },
+        {
+            "type": "building",
+            "id": "c4a639bf-c49e-40b9-92e0-d477ab4273f7",
+            "title": "Пр2610",
+            "description": "ул. Прянишникова, 2А, корп. 2, 6-й этаж",
+            "coordinates": {
+                "lat": 55.833708,
+                "lng": 37.543758
+            }
+        },
+        {
+            "type": "building",
+            "id": "3ace5c9b-0413-4040-95af-f9d6542e948d",
+            "title": "Пр1402",
+            "description": "ул. Прянишникова, 2А, корп. 1, 4-й этаж",
+            "coordinates": {
+                "lat": 55.833268,
+                "lng": 37.54418
+            }
+        },
+        {
+            "type": "building",
+            "id": "f66d5c7f-7565-47b3-a771-a177be41e84e",
+            "title": "Пр1426",
+            "description": "ул. Прянишникова, 2А, корп. 1, 4-й этаж",
+            "coordinates": {
+                "lat": 55.833268,
+                "lng": 37.54418
+            }
+        },
+        {
+            "type": "other",
+            "id": "977401b3-7ddc-4052-8b39-dfbe551dc802",
+            "title": "СДО (LMS)"
+        },
+        {
+            "type": "online",
+            "id": "29b30e3e-ff77-45ca-8594-295fa3575d7b",
+            "title": "Онлайн лекция в Webinar",
+            "url": ""
+        },
+        {
+            "type": "building",
+            "id": "4c56782e-040a-4b6e-861d-1abe6e2ccc78",
+            "title": "Спортзал",
+            "description": ""
+        },
+        {
+            "type": "building",
+            "id": "2688c9e9-d4e5-436f-b8bd-ec65ec089ccf",
+            "title": "Пр2559",
+            "description": "ул. Прянишникова, 2А, корп. 2, 5-й этаж",
+            "coordinates": {
+                "lat": 55.833708,
+                "lng": 37.543758
+            }
+        },
+        {
+            "type": "building",
+            "id": "85f422ba-aa41-4067-90a9-d96dc9a44897",
+            "title": "Пр2304",
+            "description": "ул. Прянишникова, 2А, корп. 2, 3-й этаж",
+            "coordinates": {
+                "lat": 55.833708,
+                "lng": 37.543758
+            }
+        },
+        {
+            "type": "building",
+            "id": "84df5849-5c70-4cc4-9c14-a1fc040bafc6",
+            "title": "Пр2802",
+            "description": "ул. Прянишникова, 2А, корп. 2, 8-й этаж",
+            "coordinates": {
+                "lat": 55.833708,
+                "lng": 37.543758
+            }
+        },
+        {
+            "type": "building",
+            "id": "c30967ee-4b15-41c5-9963-d8a4bd2374ff",
+            "title": "Пр2502",
+            "description": "ул. Прянишникова, 2А, корп. 2, 5-й этаж",
+            "coordinates": {
+                "lat": 55.833708,
+                "lng": 37.543758
+            }
+        },
+        {
+            "type": "online",
+            "id": "af948f7e-2b4c-4f06-84c0-f99caf6b57ae",
+            "title": "Онлайн лекция в Webinar",
+            "description": "https://www.google.ru/",
+            "url": "https://www.google.ru/"
+        },
+        {
+            "type": "building",
+            "id": "1c7068ac-3ad6-4767-8a0d-40c63367e306",
+            "title": "Пр1317",
+            "description": "ул. Прянишникова, 2А, корп. 1, 3-й этаж",
+            "coordinates": {
+                "lat": 55.833268,
+                "lng": 37.54418
+            }
+        },
+        {
+            "type": "building",
+            "id": "86f35ef7-37ee-449e-85ce-073a3495fa7b",
+            "title": "Пр ВЦ 2 (2554)",
+            "description": "ул. Прянишникова, 2А, корп. 2, 5-й этаж",
+            "coordinates": {
+                "lat": 55.833708,
+                "lng": 37.543758
+            }
+        },
+        {
+            "type": "online",
+            "id": "092626da-e599-487d-8bda-17d6f41e85af",
+            "title": "Онлайн лекция в Webinar",
+            "description": "https://www.google.ru/",
+            "url": "https://www.google.ru/"
+        },
+        {
+            "type": "online",
+            "id": "abe200a2-83bd-4e4f-880b-bc7768ebf8ea",
+            "title": "Онлайн лекция в Webinar",
+            "description": "https://www.google.ru/",
+            "url": "https://www.google.ru/"
+        },
+        {
+            "type": "building",
+            "id": "c3389873-d45c-4fd2-8744-87ade457658c",
+            "title": "Пр2503",
+            "description": "ул. Прянишникова, 2А, корп. 2, 5-й этаж",
+            "coordinates": {
+                "lat": 55.833708,
+                "lng": 37.543758
+            }
+        }
+    ]
+}

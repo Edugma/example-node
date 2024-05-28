@@ -1,0 +1,133 @@
+{
+    "periods": [
+        {
+            "id": "4",
+            "title": "4-й семестр"
+        },
+        {
+            "id": "3",
+            "title": "3-й семестр"
+        },
+        {
+            "id": "2",
+            "title": "2-й семестр"
+        },
+        {
+            "id": "1",
+            "title": "1-й семестр"
+        },
+        {
+            "id": "all",
+            "title": "Все"
+        }
+    ],
+    "selected": {
+        "id": "3",
+        "grades": [
+            {
+                "id": "166159",
+                "title": "Искусственный интеллект в мобильных системах",
+                "type": "Зачет",
+                "description": "Евсеев И. В. • 27 февраля 2024 г.",
+                "grade": {
+                    "value": 1,
+                    "maxValue": 1,
+                    "minValue": 0,
+                    "normalizedValue": "very_good",
+                    "description": "Зачтено"
+                }
+            },
+            {
+                "id": "159547",
+                "title": "Web-технологии разработки мобильных приложений",
+                "type": "Экзамен",
+                "description": "Алпатова М. В. • 17 января 2024 г.",
+                "grade": {
+                    "value": 5,
+                    "maxValue": 5,
+                    "minValue": 2,
+                    "normalizedValue": "very_good",
+                    "description": "Отлично"
+                }
+            },
+            {
+                "id": "159529",
+                "title": "Распознавание образов",
+                "type": "Экзамен",
+                "description": "Арсентьев Д. А. • 15 января 2024 г.",
+                "grade": {
+                    "value": 5,
+                    "maxValue": 5,
+                    "minValue": 2,
+                    "normalizedValue": "very_good",
+                    "description": "Отлично"
+                }
+            },
+            {
+                "id": "159537",
+                "title": "Кроссплатформенные технологии разработки мобильных приложений",
+                "type": "Экзамен",
+                "description": "Новиков П. С. • 12 января 2024 г.",
+                "grade": {
+                    "value": 5,
+                    "maxValue": 5,
+                    "minValue": 2,
+                    "normalizedValue": "very_good",
+                    "description": "Отлично"
+                }
+            },
+            {
+                "id": "159544",
+                "title": "Разработка игровых мобильных приложений",
+                "type": "Экзамен",
+                "description": "Алпатова М. В. • 10 января 2024 г.",
+                "grade": {
+                    "value": 5,
+                    "maxValue": 5,
+                    "minValue": 2,
+                    "normalizedValue": "very_good",
+                    "description": "Отлично"
+                }
+            },
+            {
+                "id": "159540",
+                "title": "Распространение и монетизация мобильных приложений",
+                "type": "Зачет",
+                "description": "Хуснулина Д. Р. • 28 декабря 2023 г.",
+                "grade": {
+                    "value": 1,
+                    "maxValue": 1,
+                    "minValue": 0,
+                    "normalizedValue": "very_good",
+                    "description": "Зачтено"
+                }
+            },
+            {
+                "id": "159543",
+                "title": "Распространение и монетизация мобильных приложений",
+                "type": "Курсовой проект",
+                "description": "Хуснулина Д. Р. • 28 декабря 2023 г.",
+                "grade": {
+                    "value": 5,
+                    "maxValue": 5,
+                    "minValue": 2,
+                    "normalizedValue": "very_good",
+                    "description": "Отлично"
+                }
+            },
+            {
+                "id": "159539",
+                "title": "Искусственный интеллект в мобильных системах",
+                "type": "Зачет",
+                "description": "Попов Д. И. • 26 декабря 2023 г.",
+                "grade": {
+                    "value": 0,
+                    "maxValue": 1,
+                    "minValue": 0,
+                    "normalizedValue": "very_bad",
+                    "description": "Не зачтено"
+                }
+            }
+        ]
+    }
+}

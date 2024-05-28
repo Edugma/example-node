@@ -1,0 +1,15 @@
+{
+    "type": "building",
+    "id": "c4a639bf-c49e-40b9-92e0-d477ab4273f7",
+    "title": "Пр2610",
+    "description": "ул. Прянишникова, 2А, корп. 2, 6-й этаж",
+    "areaAlias": "Прянишникова",
+    "street": "ул. Прянишникова, 2А",
+    "building": "2",
+    "floor": "6",
+    "auditorium": "2610",
+    "coordinates": {
+        "lat": 55.833708,
+        "lng": 37.543758
+    }
+}

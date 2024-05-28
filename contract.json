@@ -1,0 +1,104 @@
+{
+    "name": "Московский политехнический университет",
+    "image": "https://mospolytech.ru/local/templates/main/dist/img/logos/mospolytech-logo-white.png",
+    "variables": {
+        "baseUrl": "https://github.com/Edugma/example-node"
+    },
+    "endpoints": {
+        "schedule-compact-get": {
+            "method": "get",
+            "url": "{baseUrl}/schedules/compact.json",
+            "security": false
+        },
+        "schedule-sources-get": {
+            "method": "get",
+            "url": "{baseUrl}/schedule/sources/{type}/p{page}.json",
+            "security": false
+        },
+        "schedule-sources-types-get": {
+            "method": "get",
+            "url": "{baseUrl}/schedule/sources.json",
+            "security": false
+        },
+        "schedule-info-group-get": {
+            "method": "get",
+            "url": "{baseUrl}/schedule/group.json",
+            "security": false
+        },
+        "schedule-info-teacher-get": {
+            "method": "get",
+            "url": "{baseUrl}/schedule/teacher.json",
+            "security": false
+        },
+        "schedule-info-place-get": {
+            "method": "get",
+            "url": "{baseUrl}/schedule/place.json",
+            "security": false
+        },
+        "schedule-info-subject-get": {
+            "method": "get",
+            "url": "{baseUrl}/schedule/subject.json",
+            "security": false
+        },
+        "schedule-info-lesson-type-get": {
+            "method": "get",
+            "url": "{baseUrl}/schedule/lesson-type.json",
+            "security": false
+        },
+        "schedule-places-free-post": {
+            "method": "post",
+            "url": "{baseUrl}/schedule/places/free",
+            "security": false
+        },
+        "schedule-places-occupancy-get": {
+            "method": "get",
+            "url": "{baseUrl}/schedule/places/occupancy/{placeId}",
+            "security": false
+        },
+        "account-login-post": {
+            "method": "get",
+            "url": "{baseUrl}/account/login.json",
+            "security": false
+        },
+        "account-lk-token-get": {
+            "method": "get",
+            "url": "{baseUrl}/account/getLkToken",
+            "security": false
+        },
+        "account-peoples-classmates-get": {
+            "method": "get",
+            "url": "{baseUrl}/account/peoples/classmates.json",
+            "security": false
+        },
+        "account-peoples-students-get": {
+            "method": "get",
+            "url": "{baseUrl}/account/peoples/students.json",
+            "security": false
+        },
+        "account-peoples-teachers-get": {
+            "method": "get",
+            "url": "{baseUrl}/account/peoples/teachers.json",
+            "security": false
+        },
+        "account-applications-get": {
+            "method": "get",
+            "url": "{baseUrl}/account/applications.json",
+            "security": false
+        },
+        "account-performance-get": {
+            "method": "get",
+            "url": "{baseUrl}/account/performance.json",
+            "security": false
+        },
+        "account-personal-get": {
+            "method": "get",
+            "url": "{baseUrl}/account/personal.json",
+            "security": false
+        },
+        "account-payments-get": {
+            "method": "get",
+            "url": "{baseUrl}/account/payments.json",
+            "security": false
+        }
+    }
+}

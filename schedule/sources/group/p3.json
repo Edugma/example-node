@@ -1,0 +1,1205 @@
+{
+    "count": 200,
+    "previous": "2",
+    "next": "4",
+    "data": [
+        {
+            "id": "MjIxLTUxMw==",
+            "type": "group",
+            "title": "221-513",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjIxLTUyMQ==",
+            "type": "group",
+            "title": "221-521",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjIxLTUzMQ==",
+            "type": "group",
+            "title": "221-531",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjIxLTUzMg==",
+            "type": "group",
+            "title": "221-532",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjIxLTYxMQ==",
+            "type": "group",
+            "title": "221-611",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIxLTYyMQ==",
+            "type": "group",
+            "title": "221-621",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIxLTYzMQ==",
+            "type": "group",
+            "title": "221-631",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIxLTYzMg==",
+            "type": "group",
+            "title": "221-632",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIxLTYzMw==",
+            "type": "group",
+            "title": "221-633",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIxLTYzNA==",
+            "type": "group",
+            "title": "221-634",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIxLTYzNQ==",
+            "type": "group",
+            "title": "221-635",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIxLTcxMQ==",
+            "type": "group",
+            "title": "221-711",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjIxLTcyMQ==",
+            "type": "group",
+            "title": "221-721"
+        },
+        {
+            "id": "MjIxLTc0MQ==",
+            "type": "group",
+            "title": "221-741",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjIxLTc1MQ==",
+            "type": "group",
+            "title": "221-751",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjIxLTc1Mg==",
+            "type": "group",
+            "title": "221-752",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjIxLTc1Mw==",
+            "type": "group",
+            "title": "221-753",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjIxLTgxMQ==",
+            "type": "group",
+            "title": "221-811",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjIxLTgxMg==",
+            "type": "group",
+            "title": "221-812",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjIxLTgxMw==",
+            "type": "group",
+            "title": "221-813",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjIxLTgxNA==",
+            "type": "group",
+            "title": "221-814",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjIxLTgyMQ==",
+            "type": "group",
+            "title": "221-821",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjIxLTgyMg==",
+            "type": "group",
+            "title": "221-822",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjIyLTEyMQ==",
+            "type": "group",
+            "title": "222-121",
+            "description": "2-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjIyLTIyMQ==",
+            "type": "group",
+            "title": "222-221",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjIyLTIzMQ==",
+            "type": "group",
+            "title": "222-231",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjIyLTYxMQ==",
+            "type": "group",
+            "title": "222-611",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIyLTYxMg==",
+            "type": "group",
+            "title": "222-612",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIyLTYzMQ==",
+            "type": "group",
+            "title": "222-631",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIyLTY0MQ==",
+            "type": "group",
+            "title": "222-641",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIyLTc1MQ==",
+            "type": "group",
+            "title": "222-751",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjIyLTgyMQ==",
+            "type": "group",
+            "title": "222-821",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjIyLTgyMg==",
+            "type": "group",
+            "title": "222-822",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjIzLTAxMQ==",
+            "type": "group",
+            "title": "223-011",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjIzLTAyMQ==",
+            "type": "group",
+            "title": "223-021",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjIzLTExMQ==",
+            "type": "group",
+            "title": "223-111",
+            "description": "2-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjIzLTEyMQ==",
+            "type": "group",
+            "title": "223-121",
+            "description": "2-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjIzLTE1MQ==",
+            "type": "group",
+            "title": "223-151",
+            "description": "2-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjIzLTIyMQ==",
+            "type": "group",
+            "title": "223-221",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjIzLTIyMg==",
+            "type": "group",
+            "title": "223-222",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjIzLTIyMw==",
+            "type": "group",
+            "title": "223-223",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjIzLTIzMQ==",
+            "type": "group",
+            "title": "223-231",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjIzLTMyMQ==",
+            "type": "group",
+            "title": "223-321",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjIzLTMyMg==",
+            "type": "group",
+            "title": "223-322",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjIzLTM3MQ==",
+            "type": "group",
+            "title": "223-371",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjIzLTM3Mg==",
+            "type": "group",
+            "title": "223-372",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjIzLTQyMQ==",
+            "type": "group",
+            "title": "223-421",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjIzLTQzMQ==",
+            "type": "group",
+            "title": "223-431",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjIzLTQ2MQ==",
+            "type": "group",
+            "title": "223-461",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjIzLTQ2Mg==",
+            "type": "group",
+            "title": "223-462",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjIzLTYzMQ==",
+            "type": "group",
+            "title": "223-631",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjIzLTczMQ==",
+            "type": "group",
+            "title": "223-731",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjI0LTAxMQ==",
+            "type": "group",
+            "title": "224-011",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjI0LTAyMQ==",
+            "type": "group",
+            "title": "224-021",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjI0LTEzMg==",
+            "type": "group",
+            "title": "224-132",
+            "description": "2-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjI0LTE1MQ==",
+            "type": "group",
+            "title": "224-151",
+            "description": "Транспортный факультет"
+        },
+        {
+            "id": "MjI0LTIxMQ==",
+            "type": "group",
+            "title": "224-211",
+            "description": "Факультет машиностроения"
+        },
+        {
+            "id": "MjI0LTIyMQ==",
+            "type": "group",
+            "title": "224-221",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjI0LTIyMg==",
+            "type": "group",
+            "title": "224-222",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjI0LTIyMw==",
+            "type": "group",
+            "title": "224-223",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjI0LTIyNA==",
+            "type": "group",
+            "title": "224-224",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjI0LTI1MQ==",
+            "type": "group",
+            "title": "224-251",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjI0LTI5MQ==",
+            "type": "group",
+            "title": "224-291",
+            "description": "Факультет машиностроения"
+        },
+        {
+            "id": "MjI0LTMxMQ==",
+            "type": "group",
+            "title": "224-311",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjI0LTMyMQ==",
+            "type": "group",
+            "title": "224-321",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjI0LTMyMg==",
+            "type": "group",
+            "title": "224-322",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjI0LTM0MQ==",
+            "type": "group",
+            "title": "224-341",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjI0LTM0Mg==",
+            "type": "group",
+            "title": "224-342",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjI0LTM1MQ==",
+            "type": "group",
+            "title": "224-351",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjI0LTM3MQ==",
+            "type": "group",
+            "title": "224-371",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjI0LTM3Mg==",
+            "type": "group",
+            "title": "224-372",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjI0LTQzMQ==",
+            "type": "group",
+            "title": "224-431",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjI0LTUxMQ==",
+            "type": "group",
+            "title": "224-511",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjI0LTUxMg==",
+            "type": "group",
+            "title": "224-512",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjI0LTUzMQ==",
+            "type": "group",
+            "title": "224-531",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjI0LTU0MQ==",
+            "type": "group",
+            "title": "224-541",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjI0LTU1MQ==",
+            "type": "group",
+            "title": "224-551",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjI0LTYzMQ==",
+            "type": "group",
+            "title": "224-631",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjI0LTYzMg==",
+            "type": "group",
+            "title": "224-632",
+            "description": "Факультет экономики и управления"
+        },
+        {
+            "id": "MjI0LTY1MQ==",
+            "type": "group",
+            "title": "224-651",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjI0LTY1Mg==",
+            "type": "group",
+            "title": "224-652",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjI0LTcxMQ==",
+            "type": "group",
+            "title": "224-711",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjI0LTc0MQ==",
+            "type": "group",
+            "title": "224-741",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjI0LTc1MQ==",
+            "type": "group",
+            "title": "224-751",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjI0LTkxMQ==",
+            "type": "group",
+            "title": "224-911",
+            "description": "Транспортный факультет"
+        },
+        {
+            "id": "MjI0LTkxMSDQn9CY0Kg=",
+            "type": "group",
+            "title": "224-911 ПИШ",
+            "description": "2-й курс"
+        },
+        {
+            "id": "MjI0LTkxMg==",
+            "type": "group",
+            "title": "224-912",
+            "description": "Транспортный факультет"
+        },
+        {
+            "id": "MjI0LTkxMiDQn9CY0Kg=",
+            "type": "group",
+            "title": "224-912 ПИШ",
+            "description": "2-й курс"
+        },
+        {
+            "id": "MjI0LTkyMQ==",
+            "type": "group",
+            "title": "224-921",
+            "description": "Транспортный факультет"
+        },
+        {
+            "id": "MjI0LTkyMSDQn9CY0Kg=",
+            "type": "group",
+            "title": "224-921 ПИШ"
+        },
+        {
+            "id": "MjI1LTI4MQ==",
+            "type": "group",
+            "title": "225-281",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjI1LTYzMQ==",
+            "type": "group",
+            "title": "225-631",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjI1LTY1MQ==",
+            "type": "group",
+            "title": "225-651",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjI1LTY1Mg==",
+            "type": "group",
+            "title": "225-652",
+            "description": "2-й курс"
+        },
+        {
+            "id": "MjI1LTc2MQ==",
+            "type": "group",
+            "title": "225-761",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjI1LTgyMQ==",
+            "type": "group",
+            "title": "225-821",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjI2LTIxMQ==",
+            "type": "group",
+            "title": "226-211",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjI2LTIzMQ==",
+            "type": "group",
+            "title": "226-231",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjI2LTQzMQ==",
+            "type": "group",
+            "title": "226-431",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjI2LTUxMQ==",
+            "type": "group",
+            "title": "226-511",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjI2LTY1MQ==",
+            "type": "group",
+            "title": "226-651",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjI3LTAxMQ==",
+            "type": "group",
+            "title": "227-011",
+            "description": "Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjI3LTIxMQ==",
+            "type": "group",
+            "title": "227-211",
+            "description": "Факультет машиностроения"
+        },
+        {
+            "id": "MjI3LTQyMQ==",
+            "type": "group",
+            "title": "227-421",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjI3LTQzMQ==",
+            "type": "group",
+            "title": "227-431",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjI3LTQ0MQ==",
+            "type": "group",
+            "title": "227-441",
+            "description": "3-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjI3LTQ2MQ==",
+            "type": "group",
+            "title": "227-461",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjI3LTYzMQ==",
+            "type": "group",
+            "title": "227-631",
+            "description": "Факультет экономики и управления"
+        },
+        {
+            "id": "MjI3LTYzMg==",
+            "type": "group",
+            "title": "227-632",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjI4LTYxMQ==",
+            "type": "group",
+            "title": "228-611",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjI4LTY0MQ==",
+            "type": "group",
+            "title": "228-641",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjI4LTc1MQ==",
+            "type": "group",
+            "title": "228-751",
+            "description": "Полиграфический институт"
+        },
+        {
+            "id": "MjI5LTIzMQ==",
+            "type": "group",
+            "title": "229-231",
+            "description": "Факультет машиностроения"
+        },
+        {
+            "id": "MjLQkC0wMTE=",
+            "type": "group",
+            "title": "22А-011",
+            "description": "2-й курс, Факультет экономики и управления"
+        },
+        {
+            "id": "MjLQkC0wMTI=",
+            "type": "group",
+            "title": "22А-012",
+            "description": "2-й курс"
+        },
+        {
+            "id": "MjLQkC0xMjE=",
+            "type": "group",
+            "title": "22А-121",
+            "description": "2-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjLQkC0xMzE=",
+            "type": "group",
+            "title": "22А-131",
+            "description": "2-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjLQkC0yMTE=",
+            "type": "group",
+            "title": "22А-211",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjLQkC0yMTI=",
+            "type": "group",
+            "title": "22А-212",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjLQkC0yMTM=",
+            "type": "group",
+            "title": "22А-213",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjLQkC0yMTQ=",
+            "type": "group",
+            "title": "22А-214",
+            "description": "2-й курс"
+        },
+        {
+            "id": "MjLQkC0yMjE=",
+            "type": "group",
+            "title": "22А-221",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjLQkC0yMjI=",
+            "type": "group",
+            "title": "22А-222",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjLQkC0yMjM=",
+            "type": "group",
+            "title": "22А-223",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjLQkC0yMzE=",
+            "type": "group",
+            "title": "22А-231",
+            "description": "2-й курс"
+        },
+        {
+            "id": "MjLQkC0yNDE=",
+            "type": "group",
+            "title": "22А-241",
+            "description": "2-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjLQkC0zMTE=",
+            "type": "group",
+            "title": "22А-311",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjLQkC0zMTI=",
+            "type": "group",
+            "title": "22А-312",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjLQkC0zMTM=",
+            "type": "group",
+            "title": "22А-313",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjLQkC0zMTQ=",
+            "type": "group",
+            "title": "22А-314",
+            "description": "2-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjLQkC00MTE=",
+            "type": "group",
+            "title": "22А-411",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjLQkC00MTI=",
+            "type": "group",
+            "title": "22А-412",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjLQkC00MTM=",
+            "type": "group",
+            "title": "22А-413",
+            "description": "2-й курс, Факультет урбанистики и городского хозяйства"
+        },
+        {
+            "id": "MjLQkC01MTE=",
+            "type": "group",
+            "title": "22А-511",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjLQkC01MjE=",
+            "type": "group",
+            "title": "22А-521",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjLQkC01MzE=",
+            "type": "group",
+            "title": "22А-531",
+            "description": "2-й курс, Факультет химической технологии и биотехнологии"
+        },
+        {
+            "id": "MjLQkC02MTE=",
+            "type": "group",
+            "title": "22А-611",
+            "description": "2-й курс"
+        },
+        {
+            "id": "MjLQkC02MjE=",
+            "type": "group",
+            "title": "22А-621",
+            "description": "2-й курс, Полиграфический институт"
+        },
+        {
+            "id": "MjLQkC04MTE=",
+            "type": "group",
+            "title": "22А-811",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjLQkC04MTI=",
+            "type": "group",
+            "title": "22А-812",
+            "description": "2-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjLQkC05MTE=",
+            "type": "group",
+            "title": "22А-911",
+            "description": "2-й курс, Факультет базовых компетенций"
+        },
+        {
+            "id": "MjLQkS03MTE=",
+            "type": "group",
+            "title": "22Б-711",
+            "description": "2-й курс, Институт графики и искусства книги имени В.А. Фаворского"
+        },
+        {
+            "id": "MjMxLTAxMQ==",
+            "type": "group",
+            "title": "231-011",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjMxLTAxMg==",
+            "type": "group",
+            "title": "231-012",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjMxLTAxMw==",
+            "type": "group",
+            "title": "231-013",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjMxLTAyMQ==",
+            "type": "group",
+            "title": "231-021",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjMxLTAyMg==",
+            "type": "group",
+            "title": "231-022",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjMxLTAyMw==",
+            "type": "group",
+            "title": "231-023",
+            "description": "1-й курс, Институт издательского дела и журналистики"
+        },
+        {
+            "id": "MjMxLTExMQ==",
+            "type": "group",
+            "title": "231-111",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTExMg==",
+            "type": "group",
+            "title": "231-112",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTExMw==",
+            "type": "group",
+            "title": "231-113",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTExNA==",
+            "type": "group",
+            "title": "231-114",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTExNQ==",
+            "type": "group",
+            "title": "231-115",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTEyMQ==",
+            "type": "group",
+            "title": "231-121",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTEyMg==",
+            "type": "group",
+            "title": "231-122",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTEzMQ==",
+            "type": "group",
+            "title": "231-131",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTE0MQ==",
+            "type": "group",
+            "title": "231-141",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTE1MQ==",
+            "type": "group",
+            "title": "231-151",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTE1Mg==",
+            "type": "group",
+            "title": "231-152",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTE2MQ==",
+            "type": "group",
+            "title": "231-161",
+            "description": "1-й курс, Транспортный факультет"
+        },
+        {
+            "id": "MjMxLTIyMQ==",
+            "type": "group",
+            "title": "231-221",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTIyMg==",
+            "type": "group",
+            "title": "231-222",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTIyMw==",
+            "type": "group",
+            "title": "231-223",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTI0MQ==",
+            "type": "group",
+            "title": "231-241",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTI0Mg==",
+            "type": "group",
+            "title": "231-242",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTI1MQ==",
+            "type": "group",
+            "title": "231-251",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTI2MQ==",
+            "type": "group",
+            "title": "231-261",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTI2Mg==",
+            "type": "group",
+            "title": "231-262",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTI3MQ==",
+            "type": "group",
+            "title": "231-271",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTI4MQ==",
+            "type": "group",
+            "title": "231-281",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTI5MQ==",
+            "type": "group",
+            "title": "231-291",
+            "description": "1-й курс, Факультет машиностроения"
+        },
+        {
+            "id": "MjMxLTMyMQ==",
+            "type": "group",
+            "title": "231-321",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyMTA=",
+            "type": "group",
+            "title": "231-3210",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyMTE=",
+            "type": "group",
+            "title": "231-3211",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyMTI=",
+            "type": "group",
+            "title": "231-3212",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyMTM=",
+            "type": "group",
+            "title": "231-3213",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyMg==",
+            "type": "group",
+            "title": "231-322",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyMw==",
+            "type": "group",
+            "title": "231-323",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyNA==",
+            "type": "group",
+            "title": "231-324",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyNQ==",
+            "type": "group",
+            "title": "231-325",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyNg==",
+            "type": "group",
+            "title": "231-326",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyNw==",
+            "type": "group",
+            "title": "231-327",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyOA==",
+            "type": "group",
+            "title": "231-328",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMyOQ==",
+            "type": "group",
+            "title": "231-329",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzMQ==",
+            "type": "group",
+            "title": "231-331",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzMTA=",
+            "type": "group",
+            "title": "231-3310",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzMg==",
+            "type": "group",
+            "title": "231-332",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzMw==",
+            "type": "group",
+            "title": "231-333",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzNA==",
+            "type": "group",
+            "title": "231-334",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzNQ==",
+            "type": "group",
+            "title": "231-335",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzNg==",
+            "type": "group",
+            "title": "231-336",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzNw==",
+            "type": "group",
+            "title": "231-337",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzOA==",
+            "type": "group",
+            "title": "231-338",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTMzOQ==",
+            "type": "group",
+            "title": "231-339",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTM1MQ==",
+            "type": "group",
+            "title": "231-351",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTM1Mg==",
+            "type": "group",
+            "title": "231-352",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTM2MQ==",
+            "type": "group",
+            "title": "231-361",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTM2Mg==",
+            "type": "group",
+            "title": "231-362",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTM2Mw==",
+            "type": "group",
+            "title": "231-363",
+            "description": "1-й курс, Факультет информационных технологий"
+        },
+        {
+            "id": "MjMxLTM2NA==",
+            "type": "group",
+            "title": "231-364",
+            "description": "1-й курс, Факультет информационных технологий"
+        }
+    ]
+}

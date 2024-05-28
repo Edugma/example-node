@@ -1,0 +1,187 @@
+{
+    "contracts": [
+        {
+            "id": "sdghdrhsdf123",
+            "title": "Общежитие 1200123-11"
+        }
+    ],
+    "selected": {
+        "id": "sdghdrhsdf123",
+        "title": "Общежитие 1200123-11",
+        "description": "Договор на проживание со студентом (2-хсторонний) 1200123-11 от 01.01.2021",
+        "startDate": "2021-01-01",
+        "endDate": "2022-01-01",
+        "balance": "0,00 ₽",
+        "isNegativeBalance": false,
+        "paymentMethods": [
+            {
+                "type": "url",
+                "title": "Оплатить долг по QR-коду",
+                "description": "Вы можете сделать скриншот экрана или скачать QR-код на устройство, затем открыть его в мобильном приложении вашего банка:\nОплата по QR-коду -> Загрузить изображение",
+                "icon": "https://img.icons8.com/fluency/96/qr-code.png",
+                "url": "https://qrcg-free-editor.qr-code-generator.com/main/assets/images/websiteQRCode_noFrame.png"
+            },
+            {
+                "type": "url",
+                "title": "Оплатить всю сумму по QR-коду",
+                "description": "Вы можете сделать скриншот экрана или скачать QR-код на устройство, затем открыть его в мобильном приложении вашего банка:\nОплата по QR-коду -> Загрузить изображение",
+                "icon": "https://img.icons8.com/fluency/96/qr-code.png",
+                "url": "https://qrcg-free-editor.qr-code-generator.com/main/assets/images/websiteQRCode_noFrame.png"
+            }
+        ],
+        "payments": [
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Перевод",
+                "date": "2023-12-19",
+                "value": "-2 950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-11-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-10-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-09-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-08-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-07-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Пополнение",
+                "date": "2023-06-29",
+                "value": "7 000,00 ₽",
+                "isNegative": false
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-06-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-05-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-04-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-03-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-02-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Пополнение",
+                "date": "2023-02-01",
+                "value": "4 800,00 ₽",
+                "isNegative": false
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2023-01-10",
+                "value": "-950,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2022-12-10",
+                "value": "-800,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2022-11-10",
+                "value": "-800,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2022-10-10",
+                "value": "-800,00 ₽",
+                "isNegative": true
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Пополнение",
+                "date": "2022-09-14",
+                "value": "4 800,00 ₽",
+                "isNegative": false
+            },
+            {
+                "id": "",
+                "title": "Общежитие №4",
+                "description": "Оплата по договору",
+                "date": "2022-09-10",
+                "value": "-800,00 ₽",
+                "isNegative": true
+            }
+        ]
+    }
+}
