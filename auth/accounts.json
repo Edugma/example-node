@@ -1,0 +1,17 @@
+{
+    "current": "abcd123",
+    "accounts": [
+        {
+            "id": "abcd123",
+            "name": "Богомолов Андрей Сергеевич",
+            "description": "224-372 • магистратура",
+            "avatar": "https://edugma.com/assets/img/edugma-logo.png"
+        },
+        {
+            "id": "sdghd345",
+            "name": "Богомолов Андрей Сергеевич",
+            "description": "181-721 • бакалавриат",
+            "accessToken": "sdf234534ij8sdfh239fhb32897g"
+        }
+    ]
+}

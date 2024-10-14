@@ -57,12 +57,12 @@
         },
         "account-login-post": {
             "method": "get",
-            "url": "{baseUrl}/account/login.json",
+            "url": "{baseUrl}/auth/login.json",
             "security": false
         },
         "account-login-post-get": {
             "method": "get",
-            "url": "{baseUrl}/account/login.json",
+            "url": "{baseUrl}/auth/login.json",
             "security": false
         },
         "account-lk-token-get": {
