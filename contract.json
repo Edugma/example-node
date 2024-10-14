@@ -65,6 +65,11 @@
             "url": "{baseUrl}/auth/login.json",
             "security": false
         },
+        "account-accounts-get": {
+            "method": "get",
+            "url": "{baseUrl}/auth/accounts.json",
+            "security": false
+        },
         "account-lk-token-get": {
             "method": "get",
             "url": "{baseUrl}/account/getLkToken",
