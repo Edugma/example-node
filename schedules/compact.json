@@ -42,7 +42,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240527T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300527T235959Z"
             ],
             "importance": "normal"
         },
@@ -69,7 +69,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240530T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300530T235959Z"
             ],
             "importance": "normal"
         },
@@ -97,7 +97,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240531T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300531T235959Z"
             ],
             "importance": "normal"
         },
@@ -123,7 +123,9 @@
                 "dateTime": "2024-06-13T16:00",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "normal"
         },
         {
@@ -147,7 +149,9 @@
                 "dateTime": "2024-06-04T10:30",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -182,7 +186,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240516T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300516T235959Z"
             ],
             "importance": "normal"
         },
@@ -209,7 +213,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240528T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300528T235959Z"
             ],
             "importance": "normal"
         },
@@ -234,7 +238,9 @@
                 "dateTime": "2024-06-04T12:10",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -259,7 +265,9 @@
                 "dateTime": "2024-06-17T12:10",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -294,7 +302,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240520T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300520T235959Z"
             ],
             "importance": "normal"
         },
@@ -322,7 +330,9 @@
                 "dateTime": "2024-06-10T12:10",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "normal"
         },
         {
@@ -346,7 +356,9 @@
                 "dateTime": "2024-06-20T12:10",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -370,7 +382,9 @@
                 "dateTime": "2024-06-13T10:30",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -396,7 +410,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240531T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300531T235959Z"
             ],
             "importance": "normal"
         },
@@ -422,7 +436,9 @@
                 "dateTime": "2024-06-17T13:50",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -448,7 +464,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240531T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300531T235959Z"
             ],
             "importance": "normal"
         },
@@ -475,7 +491,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240312T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300312T235959Z"
             ],
             "importance": "normal"
         },
@@ -502,7 +518,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240605T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300605T235959Z"
             ],
             "importance": "normal"
         },
@@ -537,7 +553,9 @@
                 "dateTime": "2024-06-08T10:30",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "normal"
         },
         {
@@ -573,7 +591,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240330T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300330T235959Z"
             ],
             "importance": "normal"
         },
@@ -606,7 +624,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240601T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300601T235959Z"
             ],
             "importance": "normal"
         },
@@ -642,7 +660,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240528T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300528T235959Z"
             ],
             "importance": "normal"
         },
@@ -677,7 +695,9 @@
                 "dateTime": "2024-06-08T12:10",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "normal"
         },
         {
@@ -701,7 +721,9 @@
                 "dateTime": "2024-06-20T10:30",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -725,7 +747,9 @@
                 "dateTime": "2024-06-06T12:10",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -751,7 +775,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240326T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300326T235959Z"
             ],
             "importance": "normal"
         },
@@ -876,7 +900,9 @@
                 "dateTime": "2024-06-03T12:10",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -902,7 +928,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240326T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300326T235959Z"
             ],
             "importance": "normal"
         },
@@ -929,7 +955,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240605T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300605T235959Z"
             ],
             "importance": "normal"
         },
@@ -954,7 +980,9 @@
                 "dateTime": "2024-06-04T13:50",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -980,7 +1008,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240530T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300530T235959Z"
             ],
             "importance": "normal"
         },
@@ -1006,7 +1034,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240531T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300531T235959Z"
             ],
             "importance": "normal"
         },
@@ -1031,7 +1059,9 @@
                 "dateTime": "2024-06-06T16:00",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -1059,7 +1089,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240525T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300525T235959Z"
             ],
             "importance": "normal"
         },
@@ -1095,7 +1125,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240525T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300525T235959Z"
             ],
             "importance": "normal"
         },
@@ -1121,7 +1151,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240528T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300528T235959Z"
             ],
             "importance": "normal"
         },
@@ -1225,7 +1255,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240527T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300527T235959Z"
             ],
             "importance": "normal"
         },
@@ -1250,7 +1280,9 @@
                 "dateTime": "2024-06-25T10:30",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -1274,7 +1306,9 @@
                 "dateTime": "2024-06-13T12:10",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -1315,7 +1349,9 @@
                 "dateTime": "2024-06-03T10:30",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -1341,7 +1377,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240528T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300528T235959Z"
             ],
             "importance": "normal"
         },
@@ -1366,7 +1402,9 @@
                 "dateTime": "2024-06-25T12:10",
                 "timeZone": "Europe/Moscow"
             },
-            "recurrence": [],
+            "recurrence": [
+                "RRULE:FREQ=MONTHLY;INTERVAL=3"
+            ],
             "importance": "high"
         },
         {
@@ -1401,7 +1439,7 @@
                 "timeZone": "Europe/Moscow"
             },
             "recurrence": [
-                "RRULE:FREQ=WEEKLY;UNTIL=20240330T235959Z"
+                "RRULE:FREQ=WEEKLY;UNTIL=20300330T235959Z"
             ],
             "importance": "normal"
         }
